@@ -1,0 +1,197 @@
+<resources>
+    <string name="app_name">Rocus</string>
+
+    <string name="score">Score 0/20</string>
+    <string name="soal_number">1/20</string>
+
+    <string name="soal_1">Apa kegunaan KCAL?</string>
+    <string name="soal1_A">Mengubah display</string>
+    <string name="soal1_B">Mengubah clock speed CPU</string>
+    <string name="soal1_C">Mengubah clock speed GPU</string>
+    <string name="soal1_D">Mengubah besar memory</string>
+    <string name="answer_1">Mengubah display</string>
+
+
+    <string name="soal_2">Bagaimana cara untuk mendapatkan hak akses tertinggi?</string>
+    <string name="soal_2A">Dengan install custom recovery</string>
+    <string name="soal_2B">Dengan install custom rom</string>
+    <string name="soal_2C">Dengan root</string>
+    <string name="soal_2D">Dengan unlock bootloader</string>
+    <string name="answer_2">Dengan root</string>
+
+
+    <string name="soal_3">Perintah yang digunakan untuk unlock bootloader realme?</string>
+    <string name="soal_3A">adb devices</string>
+    <string name="soal_3B">fastboot flashing unlock</string>
+    <string name="soal_3C">adb fastboot</string>
+    <string name="soal_3D">fastboot recovery</string>
+    <string name="answer_3">fastboot flashing unlock</string>
+
+    <string name="soal_4">Custom ROM yang dibuat oleh developer dari Indonesia adalah?</string>
+    <string name="soal_4A">Derpfest</string>
+    <string name="soal_4B">Pixel Experience</string>
+    <string name="soal_4C">Lineage</string>
+    <string name="soal_4D">Nusantara</string>
+    <string name="answer_4">Nusantara</string>
+
+    <string name="soal_5">Icon dari custom rom corvus adalah?</string>
+    <string name="soal_5A">Gagak</string>
+    <string name="soal_5B">Kerbau</string>
+    <string name="soal_5C">Elang</string>
+    <string name="soal_5D">Merpati</string>
+    <string name="answer_5">Gagak</string>
+
+    <string name="soal_6">Custom ROM yang memiliki aplikasi basis google yang disertakan adalah ?</string>
+    <string name="soal_6A">Derpfest</string>
+    <string name="soal_6B">Pixel Experience</string>
+    <string name="soal_6C">Lineage</string>
+    <string name="soal_6D">Nusantara</string>
+    <string name="answer_6">Pixel Experience</string>
+
+    <string name="soal_7">Tahun berapakah project nusantara didirikan?</string>
+    <string name="soal_7A">2021</string>
+    <string name="soal_7B">1019</string>
+    <string name="soal_7C">2020</string>
+    <string name="soal_7D">2022</string>
+    <string name="answer_7">2020</string>
+
+    <string name="soal_8">Siapakah nickname penemu nusantara project?.</string>
+    <string name="soal_8A">RicardHowsen</string>
+    <string name="soal_8B">Ginawan</string>
+    <string name="soal_8C">Lestyani5</string>
+    <string name="soal_8D">Genkzsz11</string>
+    <string name="answer_8">Genkzsz11</string>
+
+    <string name="soal_9">Apakah kepanjangan dari AOSP?</string>
+    <string name="soal_9A">Android Oven Source Project</string>
+    <string name="soal_9B">Android Open Sauce Project</string>
+    <string name="soal_9C">Android Open Source Project</string>
+    <string name="soal_9D">Android Oven Sources Project</string>
+    <string name="answer_9">Android Open Source Project</string>
+
+    <string name="soal_10">Untuk flash custom rom pixel experience dibutuhkan custom recovery ?</string>
+    <string name="soal_10A">Pixel Recovery</string>
+    <string name="soal_10B">CWM Recovery</string>
+    <string name="soal_10C">TWRP Recovery</string>
+    <string name="soal_10D">Pitchblack Recovery</string>
+    <string name="answer_10">Pixel Recovery</string>
+
+    <string name="soal_11">Aplikasi yang dapat keuntungan dari hak istimewa adalah ?</string>
+    <string name="soal_11A">Mi Music</string>
+    <string name="soal_11B">Greenify</string>
+    <string name="soal_11C">Walkman</string>
+    <string name="soal_11D">Spotify</string>
+    <string name="answer_11">Greenify</string>
+
+    <string name="soal_12">Langkah setelah format data dan flash zip pada xiaomi adalah ?</string>
+    <string name="soal_12A">Flash Magisk</string>
+    <string name="soal_12B">Flash Framework</string>
+    <string name="soal_12C">Flash update zip</string>
+    <string name="soal_12D">Flash Recovery</string>
+    <string name="answer_12">Flash Framework</string>
+
+    <string name="soal_13">Langkah setelah format data dan flash zip pada realme adalah ?</string>
+    <string name="soal_13A">Reboot</string>
+    <string name="soal_13B">Flash Magisk</string>
+    <string name="soal_13C">Flash update zip</string>
+    <string name="soal_13D">Flash Framework</string>
+    <string name="answer_13">Reboot</string>
+
+    <string name="soal_14">Aplikasi yang digunakan untuk overclock ?</string>
+    <string name="soal_14A">Greenify</string>
+    <string name="soal_14B">Franco kernel manager</string>
+    <string name="soal_14C">Magisk manager</string>
+    <string name="soal_14D">Viper4Android</string>
+    <string name="answer_14">Franco kernel manager</string>
+
+    <string name="soal_15">Module magisk yang berguna untuk meningkatkan kualitas audio ?</string>
+    <string name="soal_15A">Viper4Android</string>
+    <string name="soal_15B">Greenify</string>
+    <string name="soal_15C">Walkman</string>
+    <string name="soal_15D">Mi Music</string>
+    <string name="answer_15">Viper4Android</string>
+
+    <string name="soal_16">Perintah yang digunakan untuk flash custom recovery orange fox ?</string>
+    <string name="soal_16A">fastboot recovery</string>
+    <string name="soal_16B">fastboot flash img</string>
+    <string name="soal_16C">fastboot flash recovery img</string>
+    <string name="soal_16D">fastboot flash recovery recovery img</string>
+    <string name="answer_16">fastboot flash recovery recovery img</string>
+
+    <string name="soal_17">Salah satu kelebihan custom rom ?</string>
+    <string name="soal_17A">Merubah tampilan lebih menarik</string>
+    <string name="soal_17B">Baterai boros</string>
+    <string name="soal_17C">Performa tertahan</string>
+    <string name="soal_17D">Tidak stabil</string>
+    <string name="answer_17">Merubah tampilan lebih menarik</string>
+
+    <string name="soal_18">Corvus ROM didasarkan pada ?</string>
+    <string name="soal_18A">Recovery</string>
+    <string name="soal_18B">AOSP</string>
+    <string name="soal_18C">Root</string>
+    <string name="soal_18D">Magisk</string>
+    <string name="answer_18">AOSP</string>
+
+    <string name="soal_19">Fitur yang tidak terdapat di recovery bawaan vendor ?</string>
+    <string name="soal_19A">Reboot</string>
+    <string name="soal_19B">Wipe Data</string>
+    <string name="soal_19C">Connect with MiAssistant</string>
+    <string name="soal_19D">Mount Storage</string>
+    <string name="answer_19">Mount Storage</string>
+
+    <string name="soal_20">Berapakah nilai saturation untuk KCAL seperti amoled ?</string>
+    <string name="soal_20A">75</string>
+    <string name="soal_20B">248</string>
+    <string name="soal_20C">255</string>
+    <string name="soal_20D">50</string>
+    <string name="answer_20">50</string>
+    <string name="selctedpilihan">SelctedPilihan</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+
+
+    <string name="nusantaratext">"Nusantara Project adalah penyedia sistem operasi android alternatif yang telah dimodifikasi dengan fitur tambahan dan update patch keamanan. Kata “Nusantara” diambil dari salah satu istilah umum di Indonesia yang berarti satu kesatuan dari Sabang sampai Merauke.
+
+Project ini dimulai pada tahun 2020 oleh salah satu developer yang ahli di bidangnya yaitu Genkzsz11 bersama dengan developer lain dari Indonesia.
+
+ROM yang dihasilkan merupakan hasil ekspresi dari sekelompok pengguna yang sangat antusias dan ahli dalam bidang pengembangan sistem operasi Android dengan open source dari Google yaitu AOSP atau Android Open Source Project."</string>
+
+    <string name="xiaominusa">1. Masuk ke recovery mode(TWRP OrangeFox)\n2. Format Data dan Flash Zip ROM yang sudah didownload\n3. Flash Framework\n4. Reboot\n \nPoco F1 : https://nusantararom.org/device/beryllium \n \nMi 10T/10 Pro : https://nusantararom.org/device/apollo \n \nPoco M3, Redmi 9 Power, Redmi 9T, Redmi Note 9 4G : https://nusantararom.org/device/juice \n \nRedmi Note 5A Lite/Prime : https://nusantararom.org/device/ulysse \n \nPoco M2 Pro, Redmi Note 9S/Pro/ProMax : https://nusantararom.org/device/miatoll</string>
+    <string name="realmenusa">1. Masuk ke recovery mode(TWRP OrangeFox)\n2. Format Data dan Flash Zip yang sudah didownload\n3. Reboot\n \nRealme 5 Pro : https://nusantararom.org/device/rmx1971  \n \nNarzo 10A, Realme C3 : https://nusantararom.org/device/rmx2020 \n \nRealme XT : https://nusantararom.org/device/rmx1921 \n \nRealme 6/6i/6s, Realme 7, Realme Narzo/Narzo 20 Pro/Narzo 30 4G : https://nusantararom.org/device/rm6785 \n \nRealme 2 Pro : https://nusantararom.org/device/rmx1801</string>
+
+    <string name="pixelextext">"PixelExperience adalah ROM berbasis AOSP, dengan aplikasi Google disertakan dan semua barang Pixel (peluncur, wallpaper, ikon, font, bootanimation).
+
+Misi kami adalah menawarkan stabilitas dan keamanan semaksimal mungkin, bersama dengan fitur penting dan berguna untuk berfungsinya perangkat dengan baik."</string>
+
+    <string name="xiaomipixel">1. Masuk ke recovery mode(Pixel Recovery)\n2. Format Data dan Flash Zip ROM yang sudah didownload\n3. Flash Framework\n4. Reboot\n \nXiaomi Mi Mix 3 5G : https://download.pixelexperience.org/andromeda \n \nXiaomi Redmi K40 Pro / Redmi K40 Pro+ / Mi 11X Pro / Mi 11i : https://download.pixelexperience.org/haydn \n \nXiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max : https://download.pixelexperience.org/miatoll \n \nXiaomi Poco F2 Pro : https://download.pixelexperience.org/lmi \n \nXiaomi Poco X3 Pro : https://download.pixelexperience.org/vayu</string>
+
+    <string name="realmepixel">1. Masuk ke recovery mode(Pixel Recovery)\n2. Format Data dan Flash Zip ROM yang sudah didownload\n3. Reboot\n \nRealme 5 Pro : https://download.pixelexperience.org/RMX1971 \n \nRealme 2 Pro : https://download.pixelexperience.org/r2p \n \nRealme 3 Pro : https://download.pixelexperience.org/RMX1851 \n \nRealme 5 Series (5/5s/5i) : https://download.pixelexperience.org/r5x/ \n \nRealme 6 Pro : https://download.pixelexperience.org/RMX2061</string>
+
+    <string name="corvustext">Corvus OS didasarkan pada AOSP, dengan semua fitur berguna yang diperlukan. Tujuan kami adalah stabilitas sekaligus kaya fitur. Kami tidak akan percaya bahwa Corvus adalah ROM yang lebih baik daripada yang lain, tetapi kami akan selalu berusaha memberikan yang terbaik untuk anda</string>
+
+    <string name="xiaomicorvus">1. Masuk ke recovery mode(TWRP OrangeFox)\n2. Format Data dan Flash Zip ROM yang sudah didownload\n3. Flash Framework\n4. Reboot\n \nMi A3 : https://downloads.corvusrom.com/?dir=laurel_sprout \n \nXiaomi Mi A1 : https://downloads.corvusrom.com/?dir=tissot \n \nRedmi 6 Pro : https://downloads.corvusrom.com/?dir=sakura \n \nPoco M2 Pro : https://downloads.corvusrom.com/?dir=gram \n \nPoco X2 : https://downloads.corvusrom.com/?dir=phoenix</string>
+
+    <string name="realmecorvus">1. Masuk ke recovery mode(TWRP OrangeFox)\n2. Format Data dan Flash Zip yang sudah didownload\n3. Reboot\n \nRealme 3 Pro : https://downloads.corvusrom.com/?dir=RMX1851  \n \nRealme 6/6i/6s : https://downloads.corvusrom.com/?dir=RMX2001 \n \nRealme XT : https://downloads.corvusrom.com/?dir=rmx1921</string>
+
+    <string name="tentangapp">"Aplikasi ini dibuat untuk pengguna handphone yang memiliki spesifikasi menengah kebawah atau rendah, handphone dengan kurangnya perfoma karena telah dibatasi oleh vendor dalam performanya, maka tujuan aplikasi ini dibuat guna untuk mempelajari pengoptimalan performa yang tidak dibatasi oleh vendor dan mengkustomisasi tampilan handphone agar lebih menarik dengan harapan penggunaa handphone tidak mengganti dengan smartphone yang baru."</string>
+
+    <string name="rootdroid">"Root adalah sebuah proses untuk mengizinkan pengguna ponsel pintar, tablet, dan peranti lain yang berjalan pada sistem operasi Android untuk mendapatkan kontrol yang lebih tinggi (dikenal dengan "akses root") pada berbagai subsistem Android.\n\nSebelum melakukan root pada android diwajibkan mengunlock bootloader terlebih dahulu.\n\n<b>Tutorial Root :</b>\n\n\1. Download Magisk https://github.com/topjohnwu/Magisk/releases\n2. Masuk ke recovery mode lalu flash file\n3. Reboot"</string>
+
+    <string name="bootloader">"Dalam istlah bahasa, bootloader adalah sebuah kode yang harus dieksekusi sebelum Sistem Operasi (OS) mulai berjalan. Konsep bootloader bersifat universal untuk hampir semua jenis OS yang sistemnya tertanam di PC, laptop, smartphone atau jenis perangkat yang lain. Pada dasarnya, bootloader adalah paket petunjuk untuk booting kernel sistem operasi dan kebanyakan dari mereka memiliki debugging atau lingkungan modifikasi sendiri-sendiri.\n\nBootloader biasanya dikunci dalam perangkat Android karena meskipun Android merupakan sistem operasi terbuka, namun para pabrikan masih menginginkan penggunanya untuk tetap memakai versi OS Android yang sengaja mereka rancang untuk perangkat tersebut. Dalam rangka untuk menerapkan konsep ini, maka pabrikan akan mengunci bootloader. Dengan dikuncinya bootloader pada perangkat Android, maka tidak mungkin untuk mem-flash Custom ROM\n\n<b>Cara unlock bootloader :</b>\n\nXiaomi : \n1. Download file https://en.miui.com/unlock/download_en.html\n2. Masuk ke fastboot mode\n3. Sambungkan kabel usb hp ke laptop\n4. Buka file lalu unlock\n\n Realme : \n1. Masuk Mode fastboot\n2. Sambungkan kabel usb hp ke laptop\n3. ketik <b>fastboot flashing unlock</b> pilih unlock the bootloader"</string>
+
+    <string name="orangefox">"Recovery adalah sebuah mode boot dalam perangkat sistem operasi Android yang berperan dalam kustomisasi sistem. Sama seeprti namanya, Recovery Mode digunakan untuk pemulihan perangkat jika terjadi sesuatu. Beberapa hal yang dilakukan saat memasuki kedalam Recovery Mode yaitu bisa reset perangkat pengaturan pabrik, flashing instalasi paket (seperti custom rom atau berbentuk zip lainnya), mencadangkan rom android dan sebagainya. Itulah mengapa Recovery sangat amat penting saat mengoprek Android agar untuk berjaga-jaga sewaktu terjadi hal yang tidak diinginkan ketika ada langkah yang salah saat eksekusi.\n\nSebenarnya Recovery Mode ini sudah ada bawaan pabrikan merk vendor android pada umumnya yaitu Stock Recovery, hanya saja memiliki batas tertentu. Misalnya seperti recovery bawaan Xiaomi [Mi-Recovery 3.0] ini yang hanya tersedia “Reboot/Wipe Data/Connect with MiAssistant”, atau Samsung dan beberapa vendor perangkat Android lainnya yang menggunakan Android Recovery bawaan hanya bisa install update .zip / file .zip tanpa adanya fitur lainnya. Karena Android lisensi sumber terbuka (Open-Source), terdapat beberapa Custom Recovery yang dikembangkan para developer dan pengoprek berkontribusi di projek custom recovery tersebut. Pada Custom Recovery terdapat fitur yang lainnya seperti Mount Storage, Backup, Restore, dan lainnya\n\n <b>Cara install orangefox recovery : </b>\n\n1. Download file Orangefox recovery https://orangefox.download/ \n2. Sambungkan kabel usb hp ke laptop dan masuk ke dalam fastboot mode\n3. Ekstrak file recovery .img\n4. Ketik <b>fastboot flash recovery recovery .img</b> "</string>
+
+    <string name="cusrom">"Custom ROM Adalah ROM atau Firmware yang sudah dimodifikasi oleh developer pihak ketiga, artinya bukan bawaan asli pabrikan smartphone.\n\nBiasanya Custom ROM dimodifikasi untuk memperoleh performa dan kinerja smartphone melebihi batas yang ditentukan oleh pabrikan, atau juga biasa disebut dengan overclocking.\n\nSingkatnya Custom ROM adalah mengubah sistem operasi android smartphone dengan sistem operasi android yang sudah dimodifikasi serta diperbaiki oleh seseorang yang disebut developer.\n\n<b>Apa saja Kelebihan Custom ROM?</b>\n\n1. Meningkatkan Performa.\n2. Fitur-fitur Canggih\n3. Merubah Tampilan Lebih Menarik.\n3. Bisa Menghapus Aplikasi Bawaan (Bloatware).\n4. Baterai Bisa Lebih Hemat\n"</string>
+
+    <string name="overclock">"Overclock berarti memaksa suatu komponen untuk bekerja lebih keras dari seharusnya. Over berarti ‘lebih', dan clock disini menandakan kecepatan frekuensi inti prosesor.\n\nSebagai contoh, kamu punya hp gaming murahan dengan clock speed 2 GHz, yang jauh lebih lambat dari hp gaming teman yang berkecepatan 2.5 GHz. Supaya tidak ketinggalan, kamu bisa overclock smartphone-mu sampai 2.5 GHz supaya bisa mendapat performa yang sama.\n\n<b>Cara overclock :</b>\nDapat menggunakan aplikasi franco kernel manager izinkan root access pilih CPU dan GPU lalu ubah clockspeednya sesuai keinginan\n"</string>
+
+    <string name="kcal">"KCAL merupakan tingkat lanjut dari color calibration yang ada pada android yang biasanya hanya ada pilihan seperti Natural, Boosted, Saturated dan Adaptive kini pengguna smartphone bebas mengkalibrasi warnanya, terdapat pilihan seperti manual konfigurasi red, green, blue, saturation, value, contrast, hue. nilai ini dapat diubah sesuai keinginan pengguna misalnya dapat menjadikan screen layar type IPS menjadi seperti Amoled\n\n<b>Cara mengubah display control KCAL :</b>\nDapat menggunakan franco kernel manager izinkan akses root lalu klik pada display control.\nUntuk amoled setting red : 236, green : 248, blue : 255, saturation : 50, screen value : 123, contrast : 130, Hue : 0"</string>
+
+    <string name="magiskmodule">"Magisk adalah metode root tanpa sistem sumber terbuka yang tidak mengubah partisi / sistem. Semua berkat Magisk, mudah bagi pengembang untuk mengembangkan modul yang bekerja dengan Magisk Manager untuk menambahkan lebih banyak fungsionalitas ke smartphone Android. Banyak modul Magisk dikembangkan dengan tujuan menyesuaikan smartphone dan menambahkan berbagai fungsi ke smartphone. Ada modul magisk yang dapat mengubah tampilan  smartphone, membantu mengelola aplikasi pengguna dan sistem, mengubah emoji, mengubah font, meningkatkan kinerja, dan banyak lagi.\n\n<b>Contoh Module Magisk :</b>\nViper4Android yang digunakan untuk meningkatkan kualitas suara smartphone menjadi lebih baik dan dapat juga dikustomisasi sesuai keinginan pengguna, dapat digunakan ketika sedang memakai earphone."</string>
+
+    <string name="hakistimewa">"Beberapa aplikasi mengharuskan device berjalan dalam keadaan root atau menggunakan magisk module. maka keuntungan aplikasi yang digunakan akan bertambah karena mempunyai hak akses tersebut\n\n<b>Contoh Aplikasi : </b>\n\nGreenify dapat keuntungan dari hak akses root dan module magisk"</string>
+
+</resources>
+
+
+
