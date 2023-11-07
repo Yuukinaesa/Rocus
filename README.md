@@ -1,8 +1,6 @@
 # Root-and-Custom-Room-Rocus-Android-Application
 
-Root and Custom Rom (Rocus) Android ApplicationRoot and Custom Rom (Rocus) Android Application
-This application was created for cellphone users with medium or specification cellphones that need more performance because the vendor in their commission has limited them.
-
-So, this application's purpose was to learn about performance optimization that is not limited by the vendor and customize the appearance of the cellphone to make it more attractive to the user's expectations. The cellphone is not replaced with a new smartphone.
+This application was designed for users with medium-specification cellphones, aiming to enhance performance in cases where vendors have imposed limitations.
+The primary goal of this application is to provide performance optimization that isn't constrained by vendor restrictions, along with customizable options to enhance the visual appeal of the cellphone, aligning it with the user's expectations. All of this is accomplished without the need to replace the existing cellphone with a new smartphone.
 
 ![Screenshot](Screenshot.png)
